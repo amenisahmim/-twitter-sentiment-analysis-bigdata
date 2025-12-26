@@ -112,5 +112,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📄 Licence
-Ce projet est sous licence **MIT** – voir le fichier [LICENSE](LICENSE)
+## 📄 📄 Licence
+Ce projet est sous licence **MIT** – voir le fichier [license.txt](license.txt)
+
