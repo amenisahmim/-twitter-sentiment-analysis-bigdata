@@ -1,8 +1,8 @@
-pyspark
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-nltk
-wordcloud
+pyspark==3.5.1
+pandas==2.0.3
+numpy==1.26.0
+scikit-learn==1.3.0
+matplotlib==3.8.0
+seaborn==0.12.2
+nltk==3.8.1
+wordcloud==1.8.2.2
